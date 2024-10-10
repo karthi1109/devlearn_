@@ -1,1 +1,7 @@
 Karthik Ravindran
+
+
+
+git config user.email "karthiravindran1109@gamil.com"
+git config user.name "Karthik"
+git config user.password "Karthi@1109"
